@@ -4,7 +4,7 @@
     "occupation": "Frontend Web Developer",
     "description": "I want to make things, that make a difference!",
     "image": "profile-pic.jpg",
-    "bio": "Hello!! I am an innovative and enthusiastic web designer and developer with a passion to bring ideas into reality. My experience (+2 years) includes working with diverse clients to design, build and maintain their websites. Additionally, I have helped businesses improve their social media presence and optimize their search engine appearances. I am seeking a challenging role to learn and evolve in the field.",
+    "bio": "Hello!! I am an innovative and enthusiastic web designer and developer with a passion to bring ideas into reality. My experience (+2 years) includes working with diverse clients to design, build and maintain their websites. Additionally, I have helped businesses improve their social media presence and optimize their search engine appearances. I am seeking a challenging role to apply my skills, continuously learn and evolve in the digital marketing space.",
     "contact message": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "deepalimusale3@gmail.com",
     "phone": "+1 (780)690-8704",
@@ -126,6 +126,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Amazon clone with stripe online payment",
+        "category": "React Website",
+        "image": "Amazon-Clone.png",
+        "url": "https://clone-dfbe8.web.app/"
+      },
       {
         "title": "Wix Website",
         "category": "Wix - Cloud service application",
